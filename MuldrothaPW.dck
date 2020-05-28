@@ -37,12 +37,10 @@
 1 [DOM:100] Phyrexian Scriptures
 1 [XLN:223] Hostage Taker
 1 [PLC:85] Damnation
-1 [ZEN:172] Oracle of Mul Daya
 1 [M11:175] Garruk Wildspeaker
 1 [WAR:169] Nissa, Who Shakes the World
 1 [KLD:163] Nissa, Vital Force
 1 [GRN:211] Underrealm Lich
-1 [RTR:208] Vraska the Unseen
 1 [RAV:158] Doubling Season
 1 [SOI:245] The Gitrog Monster
 1 [CM2:39] Deepglow Skate
@@ -52,7 +50,6 @@
 1 [WAR:97] Liliana, Dreadhorde General
 1 [XLN:232] Vraska, Relic Seeker
 1 [THB:190] Nyxbloom Ancient
-1 [NPH:1] Karn Liberated
 1 [FRF:1] Ugin, the Spirit Dragon
 1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [WAR:94] Kaya's Ghostform
@@ -89,6 +86,9 @@
 1 [CM1:2] Command Tower
 1 [M19:79] Tezzeret, Artifice Master
 1 [WAR:89] The Elderspell
+1 [IKO:277] Vivien, Monsters' Advocate
+1 [IKO:212] Titans' Nest
+1 [IKO:185] Emergent Ultimatum
 SB: 1 [DOM:199] Muldrotha, the Gravetide
-LAYOUT MAIN:(1,10)(CMC,false,50)|([AVR:225],[TMP:315],[3ED:283],[RNA:246],[CM1:2],[RAV:276],[EVE:177],[THB:254],[THB:254],[THB:254],[THB:254],[RAV:278],[DOM:240],[THB:251],[THB:251],[THB:251],[WAR:248],[ZEN:220],[MH1:243],[KTK:238],[GRN:253],[KTK:239],[DIS:180],[SHM:280],[THB:252],[THB:252],[THB:252],[THB:252],[M20:254],[M20:255],[3ED:288],[EVE:180],[3ED:290],[ZEN:229],[MH1:249],[GRN:259],[DOM:248])([M12:165],[ORI:170],[ROE:190],[WAR:94],[PCY:126],[SOM:80],[6ED:161])([5ED:140],[E01:80],[3ED:105],[RAV:260],[RAV:262],[STH:108],[CHK:239],[DIS:166],[5ED:329],[WAR:89])([WAR:228],[CHK:201],[M19:180],[5DN:86],[WAR:159],[WAR:52],[WAR:232],[ISD:105],[EMN:93],[WAR:61],[ELD:197],[APC:114],[BBD:11],[GRN:82],[EMA:108])([PLC:85],[M11:175],[XLN:223],[ZEN:172],[DOM:100],[ELD:171],[NEM:117],[WAR:68],[EXO:128],[WAR:220],[M15:215],[BBD:12],[RIX:151])([CM2:39],[RAV:158],[KLD:163],[WAR:169],[SOI:245],[GRN:211],[RTR:208],[M19:79])([ELD:191],[WAR:97],[M12:109],[WAR:2],[XLN:232])([NPH:1],[THB:190])([FRF:1])([BFZ:15])
+LAYOUT MAIN:(1,10)(CMC,false,50)|([AVR:225],[TMP:315],[3ED:283],[RNA:246],[CM1:2],[RAV:276],[EVE:177],[THB:254],[THB:254],[THB:254],[THB:254],[RAV:278],[DOM:240],[THB:251],[THB:251],[THB:251],[WAR:248],[ZEN:220],[MH1:243],[KTK:238],[GRN:253],[KTK:239],[DIS:180],[SHM:280],[THB:252],[THB:252],[THB:252],[THB:252],[M20:254],[M20:255],[3ED:288],[EVE:180],[3ED:290],[ZEN:229],[MH1:249],[GRN:259],[DOM:248])([M12:165],[ORI:170],[ROE:190],[WAR:94],[PCY:126],[SOM:80],[6ED:161])([5ED:140],[E01:80],[3ED:105],[RAV:260],[RAV:262],[STH:108],[CHK:239],[DIS:166],[5ED:329],[WAR:89])([WAR:228],[CHK:201],[M19:180],[5DN:86],[WAR:159],[WAR:52],[WAR:232],[ISD:105],[EMN:93],[WAR:61],[ELD:197],[APC:114],[BBD:11],[GRN:82],[EMA:108])([PLC:85],[M11:175],[XLN:223],[DOM:100],[ELD:171],[NEM:117],[WAR:68],[EXO:128],[WAR:220],[M15:215],[BBD:12],[RIX:151],[IKO:212])([CM2:39],[RAV:158],[KLD:163],[WAR:169],[SOI:245],[GRN:211],[M19:79],[IKO:277])([ELD:191],[WAR:97],[M12:109],[WAR:2],[XLN:232])([THB:190],[IKO:185])([FRF:1])([BFZ:15])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:199])
